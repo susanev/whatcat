@@ -80,6 +80,7 @@ input[type="url"] {
     font-size: 16px;
     padding: 15px;
     background-color: white;
+    border-radius: 4px;
 }
 
 #selfie {
@@ -98,5 +99,4 @@ button.snapshot {
     background-color: white;
     float: left;
     margin-right: 200px;
-    border-radius: 4px;
 }
