@@ -98,4 +98,5 @@ button.snapshot {
     background-color: white;
     float: left;
     margin-right: 200px;
+    border-radius: 4px;
 }
