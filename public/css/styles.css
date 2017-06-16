@@ -1,5 +1,5 @@
 body {
-  background-color: #E1B5AD;
+  background-color: #f5e8e5;
   font-family: 'Poppins', sans-serif;
   font-size: 16px;
   width: 100%;
@@ -58,7 +58,7 @@ body {
 .main-header { 
   clear: both;
   display: block;
-  color: #457B9D;
+  color: #E1B5AD;
   text-align: center;
 }
 
@@ -76,7 +76,7 @@ body {
 
 input[type="submit"],
 input[type="url"] {
-    border: 3px solid #457B9D;
+    border: 3px solid #E1B5AD;
     font-size: 16px;
     padding: 15px;
     background-color: white;
@@ -92,7 +92,7 @@ label {
 }
 
 button.snapshot {
-    border: 3px solid #457B9D;
+    border: 3px solid #E1B5AD;
     font-size: 16px;
     padding: 15px;
     background-color: white;
